@@ -15,6 +15,15 @@
         "slide_fQwgNE": {
           "type": "slide",
           "settings": {
+            "slide_text": "primer titulo2",
+            "slide_image": "shopify://shop_images/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg",
+            "link_text": "Ver más",
+            "link_url": "shopify://products/the-collection-snowboard-liquid"
+          }
+        },
+        "slide_zGhgV8": {
+          "type": "slide",
+          "settings": {
             "slide_text": "primer titulo",
             "slide_image": "shopify://shop_images/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg",
             "link_text": "Ver más",
@@ -23,7 +32,8 @@
         }
       },
       "block_order": [
-        "slide_fQwgNE"
+        "slide_fQwgNE",
+        "slide_zGhgV8"
       ],
       "settings": {
         "text": "Esto es texto por defecto"
