@@ -1,0 +1,18 @@
+.swiper .swiper-slide {
+   position: relative;
+}
+.swiper .swiper-slide .slide-content {
+    position: absolute;
+ }
+.swiper .swiper-slide img{
+    width: 100%;
+}
+.swiper .swiper-slide a{
+    padding: 10px 30px;
+    background: #000;
+    color:#fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+    
+}
